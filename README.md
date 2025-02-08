@@ -1,3 +1,8 @@
+<img src="https://your-image-url.com/banner.gif" width="100%" />
+<h1 align="center">Hi there, I'm <a href="https://github.com/Imman9">Imman9</a> 👋</h1>
+<h3 align="center">🚀 Full-Stack Developer | Open Source Enthusiast | Tech Lover 💻</h3>
+
+
 ### 🛠 Tech Stack
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
