@@ -16,7 +16,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=FF5733&lines=Welcome+to+my+GitHub!;I+love+coding+💻;Let's+build+something+great!)](https://git.io/typing-svg)
 
-![GitHub Snake](https://github.com/Imman9/Imman9/blob/output/github-contribution-grid-snake.svg)
+### 🐍 GitHub Contribution Snake
+![Snake animation](https://github.com/Imman9/Imman9/blob/output/github-contribution-grid-snake.svg)
+
 
 <!--
 **stilldrey2/stilldrey2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
